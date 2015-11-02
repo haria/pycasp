@@ -6,3 +6,6 @@ Contact egonina@eecs.berkeley.edu
 ----------------------------------------------------------
 
 See https://github.com/egonina/pycasp/wiki/
+
+extra steps:
+mv .aksetup-defaults.py ~
